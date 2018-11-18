@@ -4,3 +4,8 @@ build/
 /.nb-gradle/
 
 gradle.properties
+/RiippuvuuksienInjektointi1/.nb-gradle/
+/RiippuvuuksienInjektointi1/NhlStatistics1/.nb-gradle/
+/NhlStatistics1/.nb-gradle/
+/Kurssistatistiikka/.nb-gradle/
+/WebLogin/.nb-gradle/
