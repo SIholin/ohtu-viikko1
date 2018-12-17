@@ -1,0 +1,10 @@
+Tero Huomon kandidaatintyössä “Ohjelmistoarkkitehtuurin sisällyttäminen 
+ketteriin ohjelmistotuotantomenetelmiin” käydään läpi millä tavoin on 
+suositeltavaa sisällyttää ohjelmistoarkkitehtuuri ketteriin 
+ohjelmistotuotantomenetelmiin. Vuonna 2012 kirjoitetussa työssään Huomo käy 
+läpi suunnittelun eri osat ketterässä ohjelmistokehityksessä ja tätä kohtaan 
+esitetyn kritiikin. Työssään hän toteaa että “ketterää ohjelmistokehitystä ja 
+arkkitehtuurilähtöistä ohjelmistotuotanto pidetään usein vastakkainasetteluna”. 
+Huomo esittelee viisi eri käytäntöä vastakkainasettelun ratkaisemiseksi, 
+joiden joukossa ovat muun muassa suunnittelupiikit, arkkitehtuurijaksot ja 
+arkkitehtuuritarinat. 

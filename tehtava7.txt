@@ -1,0 +1,9 @@
+Keväällä 2016 tekemässään kandidaatin tutkielmassa “Scrumban-menetelmän käyttö 
+ketterässä ohjelmistokehityksessä” Kalle Ilves kertoo ketteristä menetelmistä 
+Scrumista ja Kanbanista sekä Scrumbanista, joka pohjutuu edellamainittuihin 
+menetelmiin. Työssä käydään myös läpi mitä ketterät menetelmät käytännössä 
+tarkoittavat. Projektit, joissa tapahtuu jatkuvasti muutoksia ovat vaikeita 
+tehdä hyödyntäen Scrum menetelmää. Toisaalta tämän kaltaisille projekteille 
+Kanban taas asettaa liian vähän rajoitteita. Näihin projekteihin kannattaakin 
+valita Scrumban, jossa on yhdistettynä “parhaat puolet” niin Scrumista kuin 
+Kanbanista.

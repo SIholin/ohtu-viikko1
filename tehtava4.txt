@@ -1,0 +1,8 @@
+Tämä Lauri Suomalaisen vuonna 2014 tekemä kandidaattin työ käsittelee 
+ohjelmistotuontantomenetelmiä ohjelmistotuotannon alkuajoista nykypäivään 
+saakka ja jopa lähitulevaisuuteen. Suomalainen esittelee työssään muun muassa 
+Vesiputousmallin, Spiraalimallin ja Ketterät menetelmät. Näitä käydessän läpi 
+Suomalainen avaa hyvin mistä mallista on milloinkin kyse ja kertoo tälle 
+mallille ominaiset hyödyt ja heikkoudet. Työnsä ensimmäisissä kappaleissa 
+Suomalainen myös selittää kansankielisesti mitä eri tekstissä esiintyvät 
+alakohtaiset käsitteet oikeastaan tarkoittavat.
