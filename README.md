@@ -6,4 +6,4 @@
 
 [Tehtävä 7](https://github.com/SIholin/ohtu-viikko1/blob/master/tehtava7.txt)
 
-[Tehtävä 8]()
+[Tehtävä 8](https://github.com/SIholin/ohtu-viikko1/blob/master/tehtava8.txt)
